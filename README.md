@@ -1,12 +1,20 @@
-# Reproducibility_08-15-2011
+# Instrument Reproducibility Assessment
 
-Date Written: 08/15/2011
+*  Date Written: 08/15/2011
 
-Industry: Time of Flight Mass Spectrometer Developer & Manufacturer
+*  Industry: Time of Flight Mass Spectrometer Developer & Manufacturer
 
-Department: Hardware & Software Customer Support
+*  Department: Hardware & Software Customer Support
 
-GUI: “GUI_AnalytesFields_Tab.png” & “GUI_Instrumentation_Tab.png”
+*  GUI:
+
+Analyte & Fields Selection Tab
+
+![GUI_AnalytesFields_Tab.png](https://github.com/kitestring/Reproducibility_08-15-2011/blob/master/Examples/GUI_AnalytesFields_Tab.png)
+
+Instrumentation & Analysis Description Tab
+
+![GUI_Instrumentation_Tab.png](https://github.com/kitestring/Reproducibility_08-15-2011/blob/master/Examples/GUI_Instrumentation_Tab.png)
 
 Sample Raw Data:
 
