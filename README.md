@@ -18,7 +18,7 @@ Instrumentation & Analysis Description Tab
 
 *  __Sample Raw Data:__
 
- This file, [GROB Z-Test EG1@1600_60.csv](https://github.com/kitestring/Reproducibility_08-15-2011/blob/master/GROB%20Z-Test%20EG1%401600_60.csv), contains the processed data exported from the software interfaced to our Time of Flight Mass Spectrometer.  Within this file is every chemical the instrument found within a single sample along with each user defined metric.  Every sample measurement would generate a single *.csv file.  For a single experiment it was not uncommon to generate hundreds of *.csv files.
+ This file, [GROB Z-Test EG1@1600_60.csv](https://github.com/kitestring/Reproducibility_08-15-2011/blob/master/GROB%20Z-Test%20EG1%401600_60.csv), contains the processed data exported from the software interfaced to our Time of Flight Mass Spectrometer.  Within this file is every chemical the instrument found within a single sample along with each user defined metrics.  Every sample measurement would generate a single *.csv file.  For a single experiment it was not uncommon to generate hundreds of *.csv files.
 
 *  __Sample Output:__
 
