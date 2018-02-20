@@ -6,6 +6,9 @@
 
 ### Department: Hardware & Software Customer Support
 
+### End Users:
+The end users of this applicaiton are technicians who acquire the instrument specifications testing data.
+
 ### GUI:
 
 Analyte & Fields Selection Tab
