@@ -1,12 +1,12 @@
 # Instrument Reproducibility Assessment
 
-*  Date Written: 08/15/2011
+*  __Date Written: 08/15/2011__
 
-*  Industry: Time of Flight Mass Spectrometer Developer & Manufacturer
+*  __Industry: Time of Flight Mass Spectrometer Developer & Manufacturer__
 
-*  Department: Hardware & Software Customer Support
+*  __Department: Hardware & Software Customer Support__
 
-*  GUI:
+*  __GUI:__
 
 Analyte & Fields Selection Tab
 
@@ -16,11 +16,11 @@ Instrumentation & Analysis Description Tab
 
 ![GUI_Instrumentation_Tab.png](https://github.com/kitestring/Reproducibility_08-15-2011/blob/master/Examples/GUI_Instrumentation_Tab.png)
 
-*  Sample Raw Data:
+*  __Sample Raw Data:__
 
  This file, [GROB Z-Test EG1@1600_60.csv](https://github.com/kitestring/Reproducibility_08-15-2011/blob/master/GROB%20Z-Test%20EG1%401600_60.csv), contains the processed data exported from the software interfaced to our Time of Flight Mass Spectrometer.  Within this file is every chemical the instrument found within a single sample along with each user defined metric.  Every sample measurement would generate a single *.csv file.  For a single experiment it was not uncommon to generate hundreds of *.csv files.
 
-*  Sample Output:
+*  __Sample Output:__
 
 Only a tiny fraction of the data can reasonably be shown here, due to the sheer volume that is generated.  To summarize… 
 
@@ -30,7 +30,14 @@ For each chemical included in the analysis an excel worksheet is added to the ex
 
 ![SampleOutput_IndividualAnalytePlot.png](https://github.com/kitestring/Reproducibility_08-15-2011/blob/master/Examples/SampleOutput_IndividualAnalytePlot.png)
 
-Additionally, there is also a summary worksheet generated that calculates an average, standard deviation, and relative standard deviation for each metric (“SampleOutput_SummaryTable.png “).  The summary worksheet also plots each metric, with all chemicals on a single plot (“SampleOutput_SummaryPlot.png”).  Each of these worksheets are contained within a single excel file.
+Additionally, there is also a summary worksheet generated that calculates an average, standard deviation, and relative standard deviation for each metric.
+
+![SampleOutput_SummaryTable.png](https://github.com/kitestring/Reproducibility_08-15-2011/blob/master/Examples/SampleOutput_SummaryTable.png)
+
+The summary worksheet also plots each metric, with all chemicals on a single plot. 
+![SampleOutput_SummaryPlot.png”](https://github.com/kitestring/Reproducibility_08-15-2011/blob/master/Examples/SampleOutput_SummaryPlot.png)
+
+Each of the aforementioned worksheets are contained within a single excel file.
 
 Application Description:
 
