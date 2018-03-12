@@ -19,11 +19,11 @@ Instrumentation & Analysis Description Tab
 
 ![GUI_Instrumentation_Tab.png](https://github.com/kitestring/Reproducibility_08-15-2011/blob/master/Examples/GUI_Instrumentation_Tab.png)
 
-### Sample Raw Data:
+### Sample Raw Data: (__To maintain confidentiality the data examples shown are not “real” and are simulated data sets.__)
 
  This file, [GROB Z-Test EG1@1600_60.csv](https://github.com/kitestring/Reproducibility_08-15-2011/blob/master/GROB%20Z-Test%20EG1%401600_60.csv), contains the processed data exported from the software interfaced to our Time of Flight Mass Spectrometer.  Within this file is every chemical the instrument found within a single sample along with each user defined metrics.  Every sample measurement would generate a single *.csv file.  For a single experiment it was not uncommon to generate hundreds of *.csv files.
 
-### Sample Output:
+### Sample Output: (__To maintain confidentiality the data examples shown are not “real” and are simulated data sets.__)
 
 Only a tiny fraction of the data can reasonably be shown here, due to the sheer volume that is generated.  To summarize… 
 
